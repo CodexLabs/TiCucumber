@@ -2,7 +2,7 @@
   "author": "Andrew McElroy",
   "name": "ticucumber",
   "description": "Titanium cucumber package. This program installs and wraps calabash for iOS and Android",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "license": "MIT",
   "repository": {
     "url": "http://github.com/Codexlabs/TiCucumber"
