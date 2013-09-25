@@ -48,7 +48,7 @@
     "Appcelerator",
     "Alloy",
     "Cucumber",
-    "Integration",
-    "Testing"
+    "Integration Testing",
+    "Calabash"
   ]
 }
